@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a08148
 test1
+=======
+test2
+>>>>>>> .merge_file_a09032
